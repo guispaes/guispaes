@@ -1,7 +1,7 @@
 ## Olá! Me chamo Guilherme!
-- Atualmente, estou trabalhando em projetos pessoais, afim de evoluir meu conhecimento em Computação. 
+- Atualmente, estou trabalhando em projetos pessoais, afim de aumentar meu conhecimento! 
 - Estudo na Faculdade de Informática e Administração Paulista, mais conhecida como FIAP. 
-- Dentro de tudo que aprendo no curso, meu foco atual é Machine Learning e desenvolvimento Full-Stack.
+- Dentro de tudo que aprendo no curso, meu foco atual é Análise de Dados e Machine Learning.
 
 <div>
     <hr> 
@@ -11,7 +11,6 @@
             <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js" " />
         </p>
     </div>
-    <hr>
     <div class="contato">
         <h3>Contato</h3>
         <p align="left">
