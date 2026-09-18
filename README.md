@@ -8,15 +8,7 @@
     <div class="tecnologias">
         <h3>Tecnologias</h3>
         <p align="left"> 
-            <a href="https://github.com/guispaes/PythonExercises-CursoEmVideo">
-            <img src="https://skillicons.dev/icons?i=py" />
-            </a>
-            <a href="https://github.com/guispaes/FinanceG">
-            <img src="https://skillicons.dev/icons?i=java,mysql" />
-            </a>
-            <a href="https://github.com/guispaes/primebank-web">
-            <img src="https://skillicons.dev/icons?i=html,css,js" />
-            </a>
+            <img src="https://skillicons.dev/icons?i=py,mysql,html,css,js" " />
         </p>
     </div>
     <hr>
